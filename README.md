@@ -5,3 +5,8 @@ The Requirement Analysis Project focuses on crafting a comprehensive foundation 
 Requirement analysis is a critical phase in the software development lifecycle where the Project team gathers, analysis and defines the functional and non-functional
 requirements that the software should meet. With this, stakeholders and the development team are on the same page and know exactly what the outcome should look like.
 It also prevents scope creep by clearly defining the scope of the project.
+
+# Why is Requirement Analysis Important?
+- Clarity and Understanding: It helps in understanding what the stakeholders expect from the software, reducing ambiguity.
+- Cost and Time Estimation: Facilitates accurate estimation of project cost, resources, and time.
+- Quality assurance: Ensures that the final product meets the desired requirements, leading to higher customer satisfaction
