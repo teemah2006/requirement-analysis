@@ -37,4 +37,8 @@ Examples:
 Describes how the system should perform
 Examples:
 - Performance: The booking service communicates with Redis and the booking database cluster. Redis is caching system, that’s stores temporary data so that data need not fetched database and which could eventually reduce the load in the database also reduce the response time of API.
-- Scalability: Whenever an API is triggered from the hotel manager app the initial request is been sent to the load balancer, then the load balancer distributes the requests to the desired server to process. The load balancer makes it scalable for increased traffic
+- Scalability: Whenever an API is triggered from the hotel manager app the initial request is been sent to the load balancer, then the load balancer distributes the requests to the desired server to process. The load balancer makes it scalable for increased traffic.
+
+# Use Case Diagrams
+Use case diagrams show how different users (actors) interact with the system to achieve specific goals (use cases). It provides a clear visual representation of system functionalities.
+**![ALX airbnb use case diagram](https://drive.google.com/file/d/1azsrVc0B_RPfAeuLFeTBWmmyeuSE1oR9/view?usp=sharing)**
