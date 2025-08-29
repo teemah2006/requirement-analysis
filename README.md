@@ -10,3 +10,18 @@ It also prevents scope creep by clearly defining the scope of the project.
 - Clarity and Understanding: It helps in understanding what the stakeholders expect from the software, reducing ambiguity.
 - Cost and Time Estimation: Facilitates accurate estimation of project cost, resources, and time.
 - Quality assurance: Ensures that the final product meets the desired requirements, leading to higher customer satisfaction
+
+# Key Activities in Requirement Analysis
+- Requirement Gathering: This includes organizing workshops with stakeholders to gather requirements, distributing surveys for feedback from larger audience,
+  conducting interviews with stakeholders to get their needs and expectations.
+
+- Requirement Elicitation: brainstorming sessions to create new requirements, focus group sessions with selected stakeholders to gather detailed requirements,
+  prototyping for stakeholders to visualize the product's look and performance.
+  
+- Requirement Documentation: creating a detailed document that lists all functional and non functional requirements, documenting user stories to view product from user's
+  perspective.
+  
+- Requirement Analysis and Modeling: priortizing requirements based on their importance, analysing the feasibility of requirements in terms of cost and technical
+  constraint.
+  
+- Requirement Validation: Reviewing the documented requirements with stakeholders to ensure accuracy and completeness, drafting clear acceptance criteria.
