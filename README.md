@@ -25,3 +25,16 @@ It also prevents scope creep by clearly defining the scope of the project.
   constraint.
   
 - Requirement Validation: Reviewing the documented requirements with stakeholders to ensure accuracy and completeness, drafting clear acceptance criteria.
+
+# Types of Requirements
+## Functional requirements
+Describes what the system should do
+Examples: 
+- Hotel Management Service: In this managers can manage their hotel's related information. Here managers have a separate portal to access the data and update it.
+- View Booking Service:  In this customers can search and book a hotel.
+
+## Non functional requirements
+Describes how the system should perform
+Examples:
+- Performance: The booking service communicates with Redis and the booking database cluster. Redis is caching system, that’s stores temporary data so that data need not fetched database and which could eventually reduce the load in the database also reduce the response time of API.
+- Scalability: Whenever an API is triggered from the hotel manager app the initial request is been sent to the load balancer, then the load balancer distributes the requests to the desired server to process. The load balancer makes it scalable for increased traffic
