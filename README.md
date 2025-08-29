@@ -44,3 +44,13 @@ Use case diagrams show how different users (actors) interact with the system to 
 
 <img width="626" height="491" alt="alx-booking-uc(1)" src="https://github.com/user-attachments/assets/2e276433-5227-4941-a4d6-acde743d0925" />
 
+# Acceptance Criteria
+Acceptance criteria are conditions that a feature must meet to be accepted by the stakeholders.
+Benefits
+
+- Ensure all parties have a clear understanding of feature requirements.
+- Provide a basis for testing and validation.
+- Help in maintaining quality and meeting user expectations.
+
+Example
+Users should be able to select available dates, confirm booking, and receive a confirmation email within 2 minutes
