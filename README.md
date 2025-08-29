@@ -41,4 +41,5 @@ Examples:
 
 # Use Case Diagrams
 Use case diagrams show how different users (actors) interact with the system to achieve specific goals (use cases). It provides a clear visual representation of system functionalities.
-**![ALX airbnb use case diagram](https://drive.google.com/file/d/1azsrVc0B_RPfAeuLFeTBWmmyeuSE1oR9/view?usp=sharing)**
+
+**[ALX airbnb use case diagram](https://drive.google.com/file/d/1azsrVc0B_RPfAeuLFeTBWmmyeuSE1oR9/view?usp=sharing)**
